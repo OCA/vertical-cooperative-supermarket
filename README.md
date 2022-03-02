@@ -2,11 +2,11 @@
 [![Pre-commit Status](https://github.com/OCA/vertical-cooperative-supermarket/actions/workflows/pre-commit.yml/badge.svg?branch=12.0)](https://github.com/OCA/vertical-cooperative-supermarket/actions/workflows/pre-commit.yml?query=branch%3A12.0)
 [![Build Status](https://github.com/OCA/vertical-cooperative-supermarket/actions/workflows/test.yml/badge.svg?branch=12.0)](https://github.com/OCA/vertical-cooperative-supermarket/actions/workflows/test.yml?query=branch%3A12.0)
 [![codecov](https://codecov.io/gh/OCA/vertical-cooperative-supermarket/branch/12.0/graph/badge.svg)](https://codecov.io/gh/OCA/vertical-cooperative-supermarket)
-[![Translation Status](https://translation.odoo-community.org/widgets/vertical-cooperative-supermarket-14-0/-/svg-badge.svg)](https://translation.odoo-community.org/engage/vertical-cooperative-supermarket-14-0/?utm_source=widget)
+[![Translation Status](https://translation.odoo-community.org/widgets/vertical-cooperative-supermarket-12-0/-/svg-badge.svg)](https://translation.odoo-community.org/engage/vertical-cooperative-supermarket-12-0/?utm_source=widget)
 
 <!-- /!\ do not modify above this line -->
 
-# Verticalization for cooperative supermarkets.
+# Verticalization for cooperative supermarkets
 
 Glues together cooperative, shift planning and membershift modules to run a cooperative supermaket.
 
